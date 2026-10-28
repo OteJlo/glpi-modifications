@@ -62,7 +62,7 @@ function plugin_version_mod()
         'requirements' => [
             'glpi' => [
                 'min' => "11.0",
-                'max' => "12.0"
+                'max' => "13.0"
             ]
         ]);
 }
